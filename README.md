@@ -1,4 +1,4 @@
-Biology Ph.D. student at Kansas State University, in Tom Platt's lab. I'm interested in the combinatorics of mobile genetic elements: how they move, mix, and reshape bacterial genomes. My consulting days left me obsessed with finding signal in noise, so these days I mostly nerd out over false discovery rates and how easily p-values can fool us.
+Biology Ph.D. student at Kansas State University, in Tom Platt's lab. I'm interested in the combinatorics of mobile genetic elements: how they move, mix, and reshape bacterial genomes.
 
 **Start here**
 
